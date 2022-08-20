@@ -13,6 +13,17 @@ text-align: center;
 max-width: 550px;
 margin: 15px;
 }
+.clasediv:hover{
+
+background-color: #11f40d;
+transition: 3s;
+}
+h1:hover{
+color:black;
+transform: skew(30deg);
+
+
+}
 
 .flex-index{
     display: flex;
