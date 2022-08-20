@@ -13,11 +13,23 @@ text-align: center;
 max-width: 550px;
 margin: 15px;
 }
+
+.flex-index{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+
+
+}
+
 @media ( max-width: 550px ){
 
 .clasediv{
 
     background-color: gray;
 }
+
+
 
 }
